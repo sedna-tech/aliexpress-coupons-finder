@@ -1,3 +1,3 @@
-# GitHub Pages for ChatGPT Search Assistant
+# GitHub Pages for AI Tab Group Manager
 
-https://sedna-tech.github.io/chatgpt-search-assistant
+https://sedna-tech.github.io/ai-tab-group-manager
