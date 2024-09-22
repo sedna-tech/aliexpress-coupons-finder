@@ -4,7 +4,7 @@ title: Privacy Policy
 description:
 ---
 
-Last updated on Apr 21, 2024
+Last updated on Sep 22, 2024
 
 ## INTRODUCTION
 
