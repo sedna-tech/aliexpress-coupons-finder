@@ -8,9 +8,9 @@ Last updated on Nov 18, 2024
 
 ## INTRODUCTION
 
-This Privacy Policy outlines the privacy practices concerning all information, data, graphics, content, software applications, and other browser extensions or services provided or made accessible through the Software or the Website. Hereinafter, the Software, the Website, and any other “AI Tab Master” services are referred to as the “Service.”
+This Privacy Policy outlines the privacy practices concerning all information, data, graphics, content, software applications, and other browser extensions or services provided or made accessible through the Software or the Website. Hereinafter, the Software, the Website, and any other “AI Tab Master” services are referred to as the “Service”.
 
-In this Privacy Policy, “we,” “us,” “our,” and other similar references mean Sedna Tech Limited, while “you,” “your,” and other similar references refer to any specific user of the Service.
+In this Privacy Policy, “we”, “us”, “our”, and other similar references mean Sedna Tech Limited, while “you”, “your”, and other similar references refer to any specific user of the Service.
 
 We want to ensure that you are fully informed about our extension, “AI Tab Master”, so you understand your interaction with us. Please carefully read this Privacy Policy, as installing our extension or visiting our website implies your acceptance of the practices listed here.
 
