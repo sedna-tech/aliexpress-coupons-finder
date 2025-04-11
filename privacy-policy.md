@@ -16,7 +16,7 @@ We want to ensure that you are fully informed about our extension, “AliExpress
 
 ## CONTACT INFORMATION
 
-If you have any questions regarding this Privacy Policy, feel free to contact our support service at sedna.tech.nz@gmail.com.
+If you have any questions regarding this Privacy Policy, feel free to contact our support service at sedna.tech.ltd@gmail.com.
 
 ## USER ACCOUNTS
 
@@ -26,9 +26,7 @@ Creating a user account or providing personal information is not necessary to us
 
 “AliExpress Coupons Finder” does not collect any personal information about you (such as your name, email address, etc.). Additionally, it does not collect or report data about your computer keystrokes or any data unrelated to the services the Extension provides, back to us or anyone else.
 
-We do not access any APIs to obtain personal information. Furthermore, when you install the Chat GPT Extension on a personal Google account, we receive no information about who completed the installation.
-
-Since we do not collect personal information, there is no section in this privacy policy about sharing it.
+We do not access any APIs to obtain personal information, therefore there is no section in this privacy policy about sharing it.
 
 ## COOKIES
 

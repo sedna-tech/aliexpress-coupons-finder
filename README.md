@@ -1,3 +1,3 @@
-# GitHub Pages for AI Tab Group Manager
+# GitHub Pages for AliExpress Coupons Finder
 
-https://sedna-tech.github.io/ai-tab-group-manager
+https://sedna-tech.github.io/aliexpress-coupons-finder
