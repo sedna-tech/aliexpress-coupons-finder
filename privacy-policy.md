@@ -38,11 +38,6 @@ Most web browsers automatically accept cookies, but you can typically adjust you
 
 “AliExpress Coupons Finder” uses local storage to save the user’s settings. All data are stored offline in your browser.
 
-To enable us to provide you with new powerful ChatGPT features, we need your permission to access the following information:
-
-- Web logs, browsing content and history
-- We access and collect this information in an aggregated non-identifying way, which means we do not identify or target an individual user. This information is collected for the purpose of providing the service functionality, to improve our apps and services and create aggregated research and marketing insights.
-
 ## ANALYTICS DATA
 
 We do use, collect, or process Google Analytics data for improving our services.
